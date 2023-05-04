@@ -1,4 +1,4 @@
-C - Printf project
+C - Printf project, Group project
 
 A function that produces output according to a format
 
